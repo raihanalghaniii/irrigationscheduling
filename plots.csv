@@ -1,0 +1,8 @@
+plot_id,water_need_hours,priority
+P1,2,high
+P2,3,medium
+P3,1,low
+P4,4,high
+P5,2,high
+P6,3,low
+P7,1,low
